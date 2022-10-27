@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Program",
+            "type": "node",
+            "request": "launch",
+            "preLaunchTask": "echotest", // The name of the task defined above
+        }
+    ]
+}
