@@ -1,12 +1,5 @@
 {
   "workbench.colorTheme": "Default Dark+",
   "workbench.preferredDarkColorTheme": "Default Dark+",
-  // do npm install
-  "terminal.integrated.profiles.linux":{
-    "bash": {
-      "path": "bash",
-      "args": ["-l"]
-    }
-  },
   "task.allowAutomaticTasks": "on",
 }
