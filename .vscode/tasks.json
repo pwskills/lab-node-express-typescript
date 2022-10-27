@@ -2,7 +2,7 @@
 	"version": "2.0.0",
 	"tasks": [
 	  {
-		"label": "Run npm webpack on startup",
+		"label": "Installing dependencies",
 		"type": "shell",
 		"command": "Running your app...",
 		"windows": {
