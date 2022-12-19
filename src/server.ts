@@ -14,4 +14,4 @@ app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);
 });
 
-// Go to your lab url - https://your-lab-url.ineuron.app:4000 to see the output
+// Go to your lab url - https://your-lab-url.pwskills.app:4000 to see the output
